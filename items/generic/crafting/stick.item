@@ -1,0 +1,11 @@
+{
+  "itemName" : "stick",
+  "rarity" : "Common",
+  "inventoryIcon" : "stick.png",
+  "description" : "It's a stick. Maybe I can craft some crude tools with it...",
+  "shortdescription" : "Wooden Stick"
+
+  //"learnBlueprintsOnPickup" : [
+  //  "stick"
+  //]
+}

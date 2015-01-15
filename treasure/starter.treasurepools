@@ -1,0 +1,49 @@
+{
+  "starterTreasure" : [
+    [0, {
+      "fill" : []
+    }]
+  ],
+
+  "avianStarterTreasure" : [
+    [0, {
+      "fill" : []
+    }]
+  ],
+
+  "apexStarterTreasure" : [
+    [0, {
+      "fill" : []
+    }]
+  ],
+
+  "humanStarterTreasure" : [
+    [0, {
+      "fill" : []
+    }]
+  ],
+
+  "glitchStarterTreasure" : [
+    [0, {
+      "fill" : []
+    }]
+  ],
+
+  "hylotlStarterTreasure" : [
+    [0, {
+      "fill" : []
+    }]
+  ],
+
+  "floranStarterTreasure" : [
+    [0, {
+      "fill" : []
+    }]
+  ],
+
+  "novakidStarterTreasure" : [
+    [0, {
+      "fill" : []
+    }]
+  ]
+}
