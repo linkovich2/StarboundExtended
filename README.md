@@ -11,7 +11,9 @@ Changes to Vanilla
 
 New Features
 ============
-- n/a
+- Poorly sprited bunny
+  - mostly just added for my own practicing purposes
+  - currently no way to see in game other then via admin commands: `/spawnmonster bunny`
 
 Notes
 =====
