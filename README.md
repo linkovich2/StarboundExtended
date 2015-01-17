@@ -19,5 +19,5 @@ Notes
 
 @todo
 ======
-- Remove tileGrid icon from UI completely
-- Move inventory tiles to fit UI a little better if possible
+- Determine how to add inventory space with back items or tech
+- Determine how to add mobile storage
