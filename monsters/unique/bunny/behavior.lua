@@ -63,7 +63,7 @@ function moveState.update(dt, stateData)
   --if stateData.timer > 0.25 then stateData.timer = 0.25 end
 
   if stateData.timer <= 0 then
-    return true, math.random(5)
+    return true, math.random(10)
   end
 
   return false

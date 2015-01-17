@@ -5,7 +5,7 @@
   "parts" : [ "body" ],
 
   "animation" : "bunny.animation",
-  "colors" : "/monsters/colors.config",
+  "colors" : "/monsters/unique/bunny/colors.config",
   "reversed" : true,
 
   "dropPools" : [ ],
