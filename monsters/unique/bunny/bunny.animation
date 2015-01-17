@@ -13,12 +13,12 @@
           },
           "move" : {
             "frames" : 6,
-            "cycle" : 0.5,
+            "cycle" : 0.4,
             "mode" : "loop"
           },
           "run" : {
             "frames" : 6,
-            "cycle" : 0.5,
+            "cycle" : 0.4,
             "mode" : "loop"
           },
           "die" : {
