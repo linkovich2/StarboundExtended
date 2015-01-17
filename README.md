@@ -19,6 +19,5 @@ Notes
 
 @todo
 ======
-- Update to patch method
 - Remove tileGrid icon from UI completely
 - Move inventory tiles to fit UI a little better if possible
