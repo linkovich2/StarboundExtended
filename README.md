@@ -24,4 +24,3 @@ Notes
 - Determine how to add inventory space with back items or tech
 - Determine how to add mobile storage
 - Add bunny to spawns somewhere, for kicks and practice
-- Give bunny a more defined tail
