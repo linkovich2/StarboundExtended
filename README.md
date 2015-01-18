@@ -11,8 +11,12 @@ Changes to Vanilla
 
 New Features
 ============
-- Poorly sprited bunny (brown and white variations)
-  - mostly just added for my own practicing purposes
+- Bunnies! (brown and white variations)
+  - extra cuteness
+  - currently no way to see in game other then via admin commands: `/spawnmonster bunny`
+- Fireflies!
+  - a bug that gives off light!
+  - will carry into some of the aesthetic areas of the mod, coming soon TM
   - currently no way to see in game other then via admin commands: `/spawnmonster bunny`
 
 Notes
@@ -23,4 +27,11 @@ Notes
 ======
 - Determine how to add inventory space with back items or tech
 - Determine how to add mobile storage
-- Add bunny to spawns somewhere, for kicks and practice
+- Add bunny to spawns somewhere
+- Add firefly spawns somewhere
+- Cherry blossom trees
+- Firefly lanterns
+
+Known Issues
+============
+- Blocks are sometimes placed in tile storage despite it's non-existance
