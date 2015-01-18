@@ -7,6 +7,7 @@ This mod really only has two goals: Add more fun, and add more challenge.
 Changes to Vanilla
 ==================
 - Made Human eyes less beady
+  - Added eyebrows and sclera
   - Changed UNDY COLOR to EYE COLOR, it now corresponds to both eyes and undies
 
 New Features
