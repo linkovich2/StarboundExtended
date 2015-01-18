@@ -6,9 +6,7 @@
         "default" : "portrait",
         "states" : {
           "portrait" : {
-            "frames" : 2,
-            "mode": "loop",
-            "cycle": 0.1
+            "frames" : 1
           }
         }
       }
@@ -48,7 +46,7 @@
           "particle" : {
             "type" : "animated",
             "animation" : "/animations/fizz2/fizz2.animation",
-            "size" : 0.25,
+            "size" : 0.5,
             "angularVelocity" : 20,
             "fade" : 1,
             "destructionTime" : 0,
