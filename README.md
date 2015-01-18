@@ -6,7 +6,8 @@ This mod really only has two goals: Add more fun, and add more challenge.
 
 Changes to Vanilla
 ==================
-- n/a
+- Made Human eyes less beady
+  - Changed UNDY COLOR to EYE COLOR, it now corresponds to both eyes and undies
 
 New Features
 ============
@@ -22,8 +23,6 @@ Notes
 =====
 - Current playthrough:
   - Character Creation
-    - Make human/apex eyes less beady
-    - Possibly allow for changing eye color (saw that someone made hair that covered the beady eyes - that may work for me)
     - Add more novakid brands
     - More hair styles in general
   - Early Game (First Planet)
@@ -36,6 +35,7 @@ Notes
 - Determine how to add mobile storage
 - Add bunny to spawns somewhere
 - Add firefly spawns somewhere
+- Add more / change undy / eye colors
 - Cherry blossom trees (may need tree scripting)
 - Firefly lanterns
 
