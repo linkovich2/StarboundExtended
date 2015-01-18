@@ -15,11 +15,11 @@ New Features
 - New Novakid brands! (currently only 3)
 - Bunnies! (brown and white variations)
   - extra cuteness
-  - currently no way to see in game other then via admin commands: `/spawnmonster bunny`
+  - spawns in Garden biome (for now), `/spawnmonster bunny`
 - Fireflies!
   - a bug that gives off light!
   - will carry into some of the aesthetic areas of the mod, coming soon TM
-  - currently no way to see in game other then via admin commands: `/spawnmonster bunny`
+  - spawns in Garden biome at night, `/spawnmonster firefly`
 
 Notes
 =====
@@ -27,18 +27,16 @@ Notes
   - Character Creation
     - More hair/fin/flower/etc styles in general
   - Early Game (First Planet)
-    - stuff
+    - Rename firefly to "lightbug", make light color and texture dynamic
+    - Remove bunny from spawning pools - too Earth-like
 
 @todo
 ======
 - Playthrough of vanilla to flesh out the roadmap (in progress)
 - Determine how to add inventory space with back items or tech
 - Determine how to add mobile storage
-- Add bunny to spawns somewhere
-- Add firefly spawns somewhere
-- Add more / change undy / eye colors
+- Add more / change  undy / eye colors
 - Cherry blossom trees (may need tree scripting)
-- Firefly lanterns
 
 Known Issues
 ============
