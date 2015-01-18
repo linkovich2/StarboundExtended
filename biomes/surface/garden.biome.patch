@@ -10,11 +10,31 @@
     "value": "lightbug"
   },
   {
+    "op":"add",
+    "path":"/spawnProfiles/0/extraSpawns/3",
+    "value": "bunny"
+  },
+  {
+    "op":"add",
+    "path":"/spawnProfiles/1/extraSpawns/3",
+    "value": "bunny"
+  },
+  {
     "op":"remove",
     "path":"/spawnProfiles/0/extraSpawns/1"
   },
   {
     "op":"remove",
     "path": "/spawnProfiles/1/extraSpawns/1"
+  },
+  {
+    "op":"replace",
+    "path":"/spawnProfiles/0/groups",
+    "value":[]
+  },
+  {
+    "op":"replace",
+    "path":"/spawnProfiles/1/groups",
+    "value":[]
   }
 ]
