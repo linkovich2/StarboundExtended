@@ -2,22 +2,12 @@
   {
     "op":"add",
     "path":"/spawnProfiles/0/extraSpawns/2",
-    "value": "firefly"
-  },
-  {
-    "op":"add",
-    "path":"/spawnProfiles/0/extraSpawns/3",
-    "value": "bunny"
+    "value": "lightbug"
   },
   {
     "op":"add",
     "path":"/spawnProfiles/1/extraSpawns/2",
-    "value": "firefly"
-  },
-  {
-    "op":"add",
-    "path":"/spawnProfiles/1/extraSpawns/3",
-    "value": "bunny"
+    "value": "lightbug"
   },
   {
     "op":"remove",

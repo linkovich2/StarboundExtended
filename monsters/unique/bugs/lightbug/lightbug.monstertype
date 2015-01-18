@@ -1,10 +1,10 @@
 {
-  "type" : "firefly",
+  "type" : "lightbug",
 
-  "categories" : [ "firefly" ],
+  "categories" : [ "lightbug" ],
   "parts" : [ "body" ],
 
-  "animation" : "firefly.animation",
+  "animation" : "lightbug.animation",
   "colors" : "/monsters/colors.config",
 
   "dropPools" : [ ],

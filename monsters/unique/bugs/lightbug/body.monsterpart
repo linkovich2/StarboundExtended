@@ -1,0 +1,9 @@
+{
+  "name" : "lightbug",
+  "category" : "lightbug",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "lightbug.png"
+  }
+}
