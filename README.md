@@ -12,6 +12,7 @@ Changes to Vanilla
 
 New Features
 ============
+- A few new Novakid brands
 - Bunnies! (brown and white variations)
   - extra cuteness
   - currently no way to see in game other then via admin commands: `/spawnmonster bunny`
@@ -24,8 +25,7 @@ Notes
 =====
 - Current playthrough:
   - Character Creation
-    - Add more novakid brands
-    - More hair styles in general
+    - More hair/fin/flower/etc styles in general
   - Early Game (First Planet)
     - stuff
 
