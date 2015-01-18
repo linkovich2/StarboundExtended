@@ -1,6 +1,6 @@
 ## Starbound Extended
 
-The goal of this mod is to provide what I am considering "bang-for-buck" features. Meaning they are easy to implement but provide lots of replayability or extend sections of the game in ways that I, and hopefully others, find enjoyable and challenging.
+This mod really only has two goals: Add more fun, and add more challenge.
 
 Changes to Vanilla
 ==================
@@ -25,11 +25,12 @@ Notes
 
 @todo
 ======
+- Playthrough of vanilla to flesh out the roadmap (in progress)
 - Determine how to add inventory space with back items or tech
 - Determine how to add mobile storage
 - Add bunny to spawns somewhere
 - Add firefly spawns somewhere
-- Cherry blossom trees
+- Cherry blossom trees (may need tree scripting)
 - Firefly lanterns
 
 Known Issues
