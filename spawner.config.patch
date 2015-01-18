@@ -15,22 +15,5 @@
         "aggressive" : false
       }
     }
-  },
-  {
-    "op":"add",
-    "path": "/spawns/bunny",
-    "value": {
-      "spawnParameters" : {
-        "area" : "surface",
-        "region" : "exposed",
-        "time" : "all"
-      },
-
-      "targetDensity" : 0.01,
-      "monsterType" : "bunny",
-      "monsterParameters" : {
-        "aggressive" : false
-      }
-    }
   }
 ]
