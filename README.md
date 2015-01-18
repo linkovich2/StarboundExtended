@@ -4,10 +4,7 @@ This mod really only has two goals: Add more fun, and add more challenge.
 
 Changes to Vanilla
 ==================
-- Lower default inventory space to a total of 10 slots (not including hotbar)
-  - makes sure the player is selective about what tools to bring for which activities
-  - stretches out some parts of the game
-  - ties in with future parts of the mod (storage space upgrades, moveable storage system)
+- n/a
 
 New Features
 ============
@@ -21,7 +18,14 @@ New Features
 
 Notes
 =====
-- n/a
+- Current playthrough:
+  - Character Creation
+    - Make human/apex eyes less beady
+    - Possibly allow for changing eye color (saw that someone made hair that covered the beady eyes - that may work for me)
+    - Add more novakid brands
+    - More hair styles in general
+  - Early Game (First Planet)
+    - stuff
 
 @todo
 ======
@@ -35,4 +39,4 @@ Notes
 
 Known Issues
 ============
-- Blocks are sometimes placed in tile storage despite it's non-existance
+- n/a
