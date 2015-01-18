@@ -6,13 +6,13 @@ This mod really only has two goals: Add more fun, and add more challenge.
 
 Changes to Vanilla
 ==================
-- Made Human eyes less beady
+- Human eyes are less beady
   - Added eyebrows and sclera
   - Changed UNDY COLOR to EYE COLOR, it now corresponds to both eyes and undies
 
 New Features
 ============
-- A few new Novakid brands
+- New Novakid brands! (currently only 3)
 - Bunnies! (brown and white variations)
   - extra cuteness
   - currently no way to see in game other then via admin commands: `/spawnmonster bunny`
@@ -43,3 +43,7 @@ Notes
 Known Issues
 ============
 - n/a
+
+Contributing
+============
+Feel free to open PR's with any changes/additions you have.

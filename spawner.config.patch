@@ -1,0 +1,36 @@
+[
+  {
+    "op":"add",
+    "path": "/spawns/firefly",
+    "value": {
+      "spawnParameters" : {
+        "area" : "air",
+        "region" : "exposed",
+        "time" : "night"
+      },
+
+      "targetDensity" : 0.01,
+      "monsterType" : "firefly",
+      "monsterParameters" : {
+        "aggressive" : false
+      }
+    }
+  },
+  {
+    "op":"add",
+    "path": "/spawns/bunny",
+    "value": {
+      "spawnParameters" : {
+        "area" : "surface",
+        "region" : "exposed",
+        "time" : "all"
+      },
+
+      "targetDensity" : 0.01,
+      "monsterType" : "bunny",
+      "monsterParameters" : {
+        "aggressive" : false
+      }
+    }
+  }
+]
