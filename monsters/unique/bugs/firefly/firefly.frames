@@ -1,0 +1,10 @@
+{
+  "frameGrid" : {
+    "size" : [3, 3],
+    "dimensions" : [2, 1],
+
+    "names" : [
+      ["portrait.1", "portrait.2"]
+    ]
+  }
+}
