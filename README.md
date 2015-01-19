@@ -15,11 +15,11 @@ New Features
 - New Novakid brands! (currently only 3)
 - Bunnies! (brown and white variations)
   - extra cuteness
-  - does not currently spawn in game, `/spawnmonster bunny`
+  - does not currently spawn in game
 - Lightbugs!
   - a bug that gives off light!
   - will carry into some of the aesthetic areas of the mod, coming soon TM
-  - spawns in Garden biome at night, `/spawnmonster lightbug`
+  - spawns in Garden biome at night
 
 Notes
 =====

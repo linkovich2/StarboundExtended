@@ -8,7 +8,7 @@
           "portrait" : {
             "frames" : 2,
             "mode":"loop",
-            "cycle": 0.2
+            "cycle": 0.05
           }
         }
       }
