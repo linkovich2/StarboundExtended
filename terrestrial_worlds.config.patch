@@ -1,0 +1,17 @@
+[
+  {
+    "op":"replace",
+    "path": "/planetSizes/small/size/0",
+    "value": 6000
+  },
+  {
+    "op":"replace",
+    "path": "/planetSizes/medium/size/0",
+    "value": 8000
+  },
+  {
+    "op":"replace",
+    "path": "/planetSizes/large/size/0",
+    "value": 12000
+  }
+]

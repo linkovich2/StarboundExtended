@@ -9,6 +9,8 @@ Changes to Vanilla
 - Human eyes are less beady
   - Added eyebrows and sclera
   - Changed UNDY COLOR to EYE COLOR, it now corresponds to both eyes and undies
+- Doubles planet size
+  - I realize this currently is not justified, but it's there in preperation for future versions of the mod
 
 New Features
 ============
@@ -21,22 +23,19 @@ New Features
   - will carry into some of the aesthetic areas of the mod, coming soon TM
   - spawns in Garden biome at night
 
-Notes
-=====
-- Current playthrough:
-  - Character Creation
-    - More hair/fin/flower/etc styles in general
-  - Early Game (First Planet)
-    - Make lightbug light color and texture dynamic if possible
-
 @todo
 ======
 - Playthrough of vanilla to flesh out the roadmap (in progress)
-- Determine how to add inventory space with back items or tech
 - Determine how to add mobile storage
 - Add more / change  undy / eye colors
-- Cherry blossom trees (may need tree scripting)
+- Cherry blossom trees
 - Add bunny spawn to somewhere
+- Add more surface minidungeons
+- Remove chests from surface spawns
+- Add more character customization options (hair/head options for each race mostly)
+- Add Hemp
+- Add Windmill and mill stone
+- Start changing recipes
 
 Known Issues
 ============
@@ -45,3 +44,10 @@ Known Issues
 Contributing
 ============
 Feel free to open PR's with any changes/additions you have.
+
+Notes
+=====
+- Spoke to devs about the following:
+  - Monster spawning in groups (currently not possible, but may come in the future)
+  - Scripts for trees (won't be possible, but they're adding possible tree interactions in the future)
+  - Inventory size (will probably not be possible until devs get around to inventory overhaul)
