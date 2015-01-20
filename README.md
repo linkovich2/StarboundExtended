@@ -2,6 +2,8 @@
 
 This mod really only has two goals: Add more fun, and add more challenge.
 
+That said, I also want it to match the flavor and style and feel like it is part of the actual game.
+
 **Note: Early versions of this mod may seem all-over-the-place with it's features. Don't worry; that's just me learning the modding ropes and seeing what's possible. Features may be replaced or removed entirely as time goes on.
 
 Changes to Vanilla
@@ -37,7 +39,8 @@ New Features
 - Add more character customization options (hair/head options for each race mostly)
 - Add Hemp
 - Add Windmill and mill stone
-- Start changing recipes
+- Continue changing recipes
+- Add more terrain features
 
 Known Issues
 ============
