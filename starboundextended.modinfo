@@ -1,5 +1,11 @@
 {
   "name": "Starbound Extended",
   "path": ".",
-  "dependencies": []
+  "dependencies": [],
+  "metadata" : {
+    "displayName" : "Starbound Extended",
+    "author" : "kaos78414",
+    "description" : "Starbound, and then some!",
+    "version" : 0.1
+  }
 }
