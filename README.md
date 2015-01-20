@@ -10,7 +10,9 @@ Changes to Vanilla
   - Added eyebrows and sclera
   - Changed UNDY COLOR to EYE COLOR, it now corresponds to both eyes and undies
 - Doubles planet size
-  - I realize this currently is not justified, but it's there in preperation for future versions of the mod
+- Changes some vanilla recipes (soon to be a LOT)
+- Removes random loot chests from surface / underground generation
+- Removes capsules and status pods from surface / underground generation
 
 New Features
 ============

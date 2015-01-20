@@ -1,20 +1,21 @@
 [
-  {
-    "op":"add",
-    "path":"/spawnProfiles/0/extraSpawns/2",
-    "value": "lightbug"
-  },
-  {
-    "op":"add",
-    "path":"/spawnProfiles/1/extraSpawns/2",
-    "value": "lightbug"
-  },
-  {
-    "op":"remove",
-    "path":"/spawnProfiles/0/extraSpawns/1"
-  },
-  {
-    "op":"remove",
-    "path": "/spawnProfiles/1/extraSpawns/1"
-  }
+  // Add Lightbug spawn
+  { "op":"add", "path":"/spawnProfiles/0/extraSpawns/2", "value": "lightbug" },
+  { "op":"add", "path":"/spawnProfiles/1/extraSpawns/2", "value": "lightbug" },
+
+  // Remove bug 2, leave butterbee
+  { "op":"remove", "path":"/spawnProfiles/0/extraSpawns/1" },
+  { "op":"remove", "path": "/spawnProfiles/1/extraSpawns/1" },
+
+  // Remove all chests, capsules and status pods from surface
+  { "op":"remove", "path":"/surfacePlaceables/items/0" },
+  { "op":"remove", "path":"/surfacePlaceables/items/0" },
+  { "op":"remove", "path":"/surfacePlaceables/items/0" },
+  { "op":"remove", "path":"/surfacePlaceables/items/0" },
+
+  // Remove all chests, capsules and status pods from underground
+  { "op":"remove", "path":"/undergroundPlaceables/items/0" },
+  { "op":"remove", "path":"/undergroundPlaceables/items/0" },
+  { "op":"remove", "path":"/undergroundPlaceables/items/0" },
+  { "op":"remove", "path":"/undergroundPlaceables/items/0" }
 ]
