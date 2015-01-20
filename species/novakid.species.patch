@@ -1,32 +1,9 @@
 [
-  {
-    "op":"add",
-    "path": "/genders/0/facialHair/20",
-    "value":"ext-20"
-  },
-  {
-    "op":"add",
-    "path": "/genders/1/facialHair/20",
-    "value":"ext-20"
-  },
-  {
-    "op":"add",
-    "path": "/genders/0/facialHair/21",
-    "value":"ext-21"
-  },
-  {
-    "op":"add",
-    "path": "/genders/1/facialHair/21",
-    "value":"ext-21"
-  },
-  {
-    "op":"add",
-    "path": "/genders/0/facialHair/22",
-    "value":"ext-22"
-  },
-  {
-    "op":"add",
-    "path": "/genders/1/facialHair/22",
-    "value":"ext-22"
-  }
+  { "op":"add", "path": "/genders/0/facialHair/-", "value":"ext-20" },
+  { "op":"add", "path": "/genders/0/facialHair/-", "value":"ext-21" },
+  { "op":"add", "path": "/genders/0/facialHair/-", "value":"ext-22" },
+
+  { "op":"add", "path": "/genders/1/facialHair/-", "value":"ext-20" },
+  { "op":"add", "path": "/genders/1/facialHair/-", "value":"ext-21" },
+  { "op":"add", "path": "/genders/1/facialHair/-", "value":"ext-22" }
 ]
