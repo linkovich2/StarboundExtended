@@ -49,7 +49,7 @@ Known Issues
 
 Contributing
 ============
-Feel free to open PR's with any changes/additions you have.
+Feel free to open PR's with any changes/additions you have. Please follow the patching format :)
 
 Notes
 =====
