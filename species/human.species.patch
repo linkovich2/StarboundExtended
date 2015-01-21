@@ -8,9 +8,11 @@
   // new hair
 
   // male
+  { "op":"add","path":"/genders/0/hair/-","value":"ext-male64" },
 
   //female
   { "op":"add","path":"/genders/1/hair/-","value":"ext-fem64" },
   { "op":"add","path":"/genders/1/hair/-","value":"ext-fem65" },
-  { "op":"add","path":"/genders/1/hair/-","value":"ext-fem66" }
+  { "op":"add","path":"/genders/1/hair/-","value":"ext-fem66" },
+  { "op":"add","path":"/genders/1/hair/-","value":"ext-fem67" }
 ]
