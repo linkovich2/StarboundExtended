@@ -18,7 +18,8 @@ Changes to Vanilla
 
 New Features
 ============
-- New Novakid brands! (currently only 3)
+- New Novakid brands! (3)
+- New Human hair! (1 female)
 - Bunnies! (brown and white variations)
   - extra cuteness
   - does not currently spawn in game

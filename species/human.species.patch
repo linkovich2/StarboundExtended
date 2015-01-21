@@ -3,5 +3,12 @@
     "op": "replace",
     "path": "/charGenTextLabels/4",
     "value": "EYE COLOR"
-  }
+  },
+
+  // new hair
+
+  // male
+
+  //female
+  { "op":"add","path":"/genders/1/hair/-","value":"ext-fem64" }
 ]
