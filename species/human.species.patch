@@ -9,6 +9,7 @@
 
   // male
   { "op":"add","path":"/genders/0/hair/-","value":"ext-male64" },
+  { "op":"add","path":"/genders/0/hair/-","value":"ext-male65" },
 
   //female
   { "op":"add","path":"/genders/1/hair/-","value":"ext-fem64" },
