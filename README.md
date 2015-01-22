@@ -14,6 +14,7 @@ Changes to Vanilla
 - Triples planet size
 - Changes some vanilla recipes (soon to be a LOT)
 - Replaces quest GUI with in-game tutorial / hint system
+  - Overwrites tutorial quests to provide hints with how to proceed
 - Removes random loot chests from surface / underground generation
 - Removes capsules and status pods from surface / underground generation
 
@@ -45,6 +46,7 @@ New Features
 - Add Windmill and mill stone
 - Continue changing recipes
 - Add more terrain features
+- Add GC; Galactic Credits (will be used to purchase things in the mid-late game of the mod)
 
 Known Issues
 ============

@@ -1,0 +1,14 @@
+[
+  // Overwrite "title"
+  { "op":"replace","path":"/title","value":"^yellow;The Essentials" },
+
+  // Overwrite text
+  { "op":"replace","path":"/text","value":"I'll probably need an ^orange;axe^white; if I'm to gather any more ^green;wood^white; - and I suspect I'll need a lot of it... A ^green;few sticks, a stone and something to tie it together^white; should do." },
+
+  // Remove moneys, pixels should be earned only for destroying objects
+  { "op":"replace","path":"/moneyRange","value":[0,0] },
+
+  // Overwrite conditions
+  { "op":"replace","path":"/conditions/item","value":[ "crudeaxe", 1 ] }
+  // Notes: A crude axe will help to get started on other portions of the mod
+]

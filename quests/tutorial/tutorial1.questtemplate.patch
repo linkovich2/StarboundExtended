@@ -1,0 +1,17 @@
+[
+  // Overwrite "title"
+  { "op":"replace","path":"/title","value":"^yellow;The Supply Cache!" },
+
+  // Overwrite text
+  { "op":"replace","path":"/text","value":"The first thing I should do is check the ^orange; ship's locker^white;, there should be some emergy supplies in there." },
+
+  // Disallow upgrade beamaxe command for now
+  { "op":"remove","path":"/enableAiCommands/0" },
+
+  // Remove moneys, pixels should be earned only for destroying objects
+  { "op":"replace","path":"/moneyRange","value":[0,0] },
+
+  // Overwrite conditions
+  { "op":"replace","path":"/conditions/item","value":[ "debris", 1 ] }
+  // Notes: there's nothing in the locker! You'll have to make some tools with materials from the planet
+]
