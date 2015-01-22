@@ -1,0 +1,24 @@
+[
+  // remove some elements
+  { "op":"replace","path":"/paneLayout/rewardItems/dimensions","value":[0,0] },
+  { "op":"replace","path":"/paneLayout/imgMoney/position","value":[-5000,-5000] },
+  { "op":"replace","path":"/paneLayout/labelMoneyAmount/color","value":[0,0,0,0] },
+
+  // reposition "quest" title and text
+  { "op":"replace","path":"/paneLayout/labelQuestTitle/position","value":[100, 135] },
+  { "op":"replace","path":"/paneLayout/labelQuestBody/position","value":[10,127] },
+
+  // reposition accept button
+  { "op":"replace","path":"/paneLayout/btnAccept/position","value":[65,53] },
+
+  // Change text wrap
+  { "op":"replace","path":"/paneLayout/labelQuestBody/wrapWidth","value": 180 },
+
+  // Reposition window
+  { "op":"add", "path":"/paneLayout/panefeature/positionLocked", "value": true },
+  { "op":"add", "path":"/paneLayout/panefeature/anchor", "value": "BottomRight" },
+
+  // Add message for closing window
+  { "op":"replace","path":"/paneLayout/labelMoney/value","value":"^green;E ^white;is disabled. Press ^green;ESC ^white;to dismiss" },
+  { "op":"replace","path":"/paneLayout/labelMoney/position","value":[120,10] }
+]

@@ -2,16 +2,16 @@
   {
     "op":"replace",
     "path": "/planetSizes/small/size/0",
-    "value": 6000
+    "value": 9000
   },
   {
     "op":"replace",
     "path": "/planetSizes/medium/size/0",
-    "value": 8000
+    "value": 12000
   },
   {
     "op":"replace",
     "path": "/planetSizes/large/size/0",
-    "value": 12000
+    "value": 18000
   }
 ]

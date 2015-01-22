@@ -11,8 +11,9 @@ Changes to Vanilla
 - Human eyes are less beady
   - Added eyebrows and sclera
   - Changed UNDY COLOR to EYE COLOR, it now corresponds to both eyes and undies
-- Doubles planet size
+- Triples planet size
 - Changes some vanilla recipes (soon to be a LOT)
+- Replaces quest GUI with in-game tutorial / hint system
 - Removes random loot chests from surface / underground generation
 - Removes capsules and status pods from surface / underground generation
 
@@ -36,9 +37,8 @@ New Features
 - Cherry blossom trees
 - Add bunny spawn to somewhere
 - Add more surface minidungeons
-- Remove chests from surface spawns
 - Add more character customization options
-  - More starting clothes and clothes in general
+  - Tattered starting clothes and clothes in general
   - More hair styles for each race
   - More color combinations
 - Add Hemp
