@@ -15,5 +15,13 @@
   { "op":"add","path":"/genders/1/hair/-","value":"ext-fem64" },
   { "op":"add","path":"/genders/1/hair/-","value":"ext-fem65" },
   { "op":"add","path":"/genders/1/hair/-","value":"ext-fem66" },
-  { "op":"add","path":"/genders/1/hair/-","value":"ext-fem67" }
+  { "op":"add","path":"/genders/1/hair/-","value":"ext-fem67" },
+
+  // default clothes
+  // male
+  { "op":"replace","path":"/genders/0/shirt","value":["tatteredchest"] },
+  { "op":"replace","path":"/genders/0/pants","value":["tatteredlegs"] },
+  // female
+  { "op":"replace","path":"/genders/1/shirt","value":["tatteredchest"] },
+  { "op":"replace","path":"/genders/1/pants","value":["tatteredlegs"] }
 ]
