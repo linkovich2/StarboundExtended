@@ -9,6 +9,6 @@
   { "op":"replace","path":"/moneyRange","value":[0,0] },
 
   // Overwrite conditions
-  { "op":"replace","path":"/conditions/item","value":[ "crudeaxe", 1 ] }
+  { "op":"replace","path":"/conditions/0/item","value":[ "crudeaxe", 1 ] }
   // Notes: A crude axe will help to get started on other portions of the mod
 ]

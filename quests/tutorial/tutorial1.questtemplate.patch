@@ -12,6 +12,6 @@
   { "op":"replace","path":"/moneyRange","value":[0,0] },
 
   // Overwrite conditions
-  { "op":"replace","path":"/conditions/item","value":[ "debris", 1 ] }
+  { "op":"replace","path":"/conditions/0/item","value":[ "debris", 1 ] }
   // Notes: there's nothing in the locker! You'll have to make some tools with materials from the planet
 ]
