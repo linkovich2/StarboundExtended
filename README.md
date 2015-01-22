@@ -17,6 +17,7 @@ Changes to Vanilla
   - Overwrites tutorial quests to provide hints with how to proceed
 - Removes random loot chests from surface / underground generation
 - Removes capsules and status pods from surface / underground generation
+- Removes starter items
 
 New Features
 ============
