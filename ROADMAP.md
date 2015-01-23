@@ -1,6 +1,11 @@
+# Roadmap
+
+These are changes and ideas I've come up with that I'd like to see in game. I don't expect that I'll ever get all of it in and balanced, but I like to have a list of things to cross off as I go. Obviously this is in a state of constant flux and features listed here can and likely will be changed as the mod evolves.
+
+
 ## Pre-game (Character Creation Assets)
 
-Generally character creation expansion is not high priority, as there are plenty of options already. That said, having more choices is great, so when I get chances to I'll work on expanding our options there.
+Generally expanding character creation is not high priority, as there are plenty of options already. That said, having more choices is great, so when I get chances to I'll work on expanding our options there.
 
 ### Human
 - More hair styles *IN PROGRESS*
@@ -28,8 +33,15 @@ Generally character creation expansion is not high priority, as there are plenty
 - More mask styles
 
 ### General
-- Tattered clothes for starting (for each race)
-- More back items
+- Tattered clothes for starting
+  - Human *IN PROGRESS*
+  - Hylotl
+  - Floran
+  - Novakid
+  - Apex
+  - Avian
+  - Glitch
+- More cosmetic back/head items
 
 
 ## General Changes
