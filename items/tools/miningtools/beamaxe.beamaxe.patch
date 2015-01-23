@@ -1,0 +1,5 @@
+[
+  // initial block radius to 0 for first upgrade
+  { "op":"replace","path":"/blockRadius","value":0 },
+  { "op":"replace","path":"/altBlockRadius","value":0 }
+]

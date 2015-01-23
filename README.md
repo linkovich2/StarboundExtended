@@ -11,13 +11,16 @@ Changes to Vanilla
 - Human eyes are less beady
   - Added eyebrows and sclera
   - Changed UNDY COLOR to EYE COLOR, it now corresponds to both eyes and undies
-- Triples planet size
+- Doubles planet size
 - Changes some vanilla recipes (soon to be a LOT)
 - Replaces quest GUI with in-game tutorial / hint system
   - Overwrites tutorial quests to provide hints with how to proceed
 - Removes random loot chests from surface / underground generation
 - Removes capsules and status pods from surface / underground generation
 - Removes starter items
+- Changes Matter Manipulator upgrade progression
+  - You start with the MM, but at first it only has the ability to place objects
+  - You'll need to use other tools to get the materials needed to activate the mining feature
 
 New Features
 ============
@@ -46,7 +49,7 @@ New Features
 - Add Windmill and mill stone
 - Continue changing recipes
 - Add more terrain features
-- Change MM upgrade process
+- Finish MM upgrade process
 - Add sticks and stones (hah!)
 - Add blood, better on death anim for monsters if possible
   - Add blood as a liquid, make exsanguinating monsters possible
