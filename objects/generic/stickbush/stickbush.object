@@ -1,0 +1,29 @@
+{
+  "objectName" : "stickbush",
+  "rarity" : "Common",
+
+  "category" : "--todo--",
+  "price" : 0,
+  "description" : "A large bush. There are some loose sticks in it.",
+  "shortdescription" : "A Bush",
+  "race" : "generic",
+
+  "inventoryIcon" : "statuspodicon.png",
+
+  "orientations" : [
+    {
+      "image" : "stickbush.png:default",
+      "imagePosition" : [0, 0],
+      "frames": 1,
+      "animationCycle": 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/generic/stickbush/stickbush.lua" ],
+  "scriptDelta" : 10,
+
+  "breakDropOptions" : [ ]
+}

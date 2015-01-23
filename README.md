@@ -42,7 +42,7 @@ New Features
 - Add bunny spawn to somewhere
 - Add more surface minidungeons
 - Add more character customization options
-  - Tattered starting clothes and more clothes to craft
+  - Tattered starting clothes (finish human clothes) and more clothes to craft
   - More hair styles for each race
   - More color combinations
 - Add Hemp
@@ -50,11 +50,15 @@ New Features
 - Continue changing recipes
 - Add more terrain features
 - Finish MM upgrade process
-- Add sticks and stones (hah!)
+- Add stones (hah!)
 - Add blood, better on death anim for monsters if possible
   - Add blood as a liquid, make exsanguinating monsters possible
 - Add GC; Galactic Credits (will be used to purchase things in the mid-late game of the mod)
 - Add: Debris and Crude Axe items
+- Refine tattered clothing (human)
+- Add variations to "stickbush"
+- Refine stick sprite
+- Add stickbush to garden biome spawns
 
 Known Issues
 ============
