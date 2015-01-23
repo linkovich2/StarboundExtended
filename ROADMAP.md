@@ -2,40 +2,32 @@
 
 Generally character creation expansion is not high priority, as there are plenty of options already. That said, having more choices is great, so when I get chances to I'll work on expanding our options there.
 
-Human
-=====
+### Human
 - More hair styles *IN PROGRESS*
 - ~~Fix beady eyes~~ *DONE*
 
-Hylotl
-======
+### Hylotl
 - More fin styles
 
-Floran
-======
+### Floran
 - More flower styles
 
-Novakid
-=======
+### Novakid
 - More brands *IN PROGRESS*
 - More hair styles
 - More colors
 
-Apex
-====
+### Apex
 - More hair styles
 
-Avian
-=====
+### Avian
 - More feather styles
 - More beaks
 
-Glitch
-=====
+### Glitch
 - More mask styles
 
-General
-=======
+### General
 - Tattered clothes for starting (for each race)
 - More back items
 
