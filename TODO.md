@@ -14,7 +14,7 @@
 - Continue changing recipes
 - Add more terrain features
 - Finish MM upgrade process
-- Add stones (hah!)
+- Add stones
 - Add blood, better on death anim for monsters if possible
   - Add blood as a liquid, make exsanguinating monsters possible
 - Add GC; Galactic Credits (will be used to purchase things in the mid-late game of the mod)
