@@ -34,39 +34,13 @@ New Features
   - will carry into some of the aesthetic areas of the mod, coming soon TM
   - spawns in Garden biome at night
 
-@todo/ideas
-===========
-- Playthrough of vanilla to flesh out the roadmap (in progress)
-- Determine how to add mobile storage
-- Cherry blossom trees
-- Add bunny spawn to somewhere
-- Add more surface minidungeons
-- Add more character customization options
-  - Tattered starting clothes (finish human clothes) and more clothes to craft
-  - More hair styles for each race
-  - More color combinations
-- Add Hemp
-- Add Windmill and mill stone
-- Continue changing recipes
-- Add more terrain features
-- Finish MM upgrade process
-- Add stones (hah!)
-- Add blood, better on death anim for monsters if possible
-  - Add blood as a liquid, make exsanguinating monsters possible
-- Add GC; Galactic Credits (will be used to purchase things in the mid-late game of the mod)
-- Add: Debris and Crude Axe items
-- Refine tattered clothing (human)
-- Add variations to "stickbush"
-- Refine stick sprite
-- Add stickbush to garden biome spawns
-
 Known Issues
 ============
 - Still under heavy development, LOTS of missing/incomplete/broken features
 
 Contributing
 ============
-Feel free to open PR's with any changes/additions you have. Please follow the patching format :)
+Feel free to open PR's with any changes/additions you have. Read ROADMAP.md for an idea of the direction this mod intends to go, I'd be happy to receive help/input for some of these ideas. Please follow the patching format :)
 
 I'm definitely on the lookout for good pixel artists; if you want to contribute let me know!
 
