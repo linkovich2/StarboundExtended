@@ -68,7 +68,43 @@ These changes don't really apply to particular portions of the mod, but either a
 Based on the phases of the game seen here: http://www.chucklefish.org/images/BiomeDiagram.png
 
 #### Before "obtain core fragments to fix thrusters"
-- ~~Remove starter items~~ *DONE*
+
+**On your ship**
+During this phase, the user should figure out they start with nothing and the MM has no ability to mine.
+
+- ~~No starter items~~ *DONE*
 - Add "Debris" item
+  - Add "Debris"
+- ~~Remove MM mining ability for early game~~ *DONE*
+- ~~Overwrite quests~~ *DONE*
+
+**Initial beam down**
+Collect sticks from bushes, rocks and plant fibre to build a crude axe to begin collecting wood
+
+- Add "Hemp"
+- Remove farmables except wheat and hemp
+- Change early game recipes *IN PROGRESS*
+- Add "Stick" *IN PROGRESS*
+- Add "Crude Axe"
+- Add "stickbush" to gather sticks from *IN PROGRESS*
+- Add "Jagged Rock"
+- ~~Add "Lightbug" for some source of light early on~~ *DONE*
+
+**First shelter**
+- Change campfire as follows:
+  - no longer requires torch
+  - now requires 5 logs to craft
+  - starts in unlit state, cannot interact with in that state and doesn't generate heat
+  - use "Flint" on it to change to "lit" state, eventually campfire will die and leave "ash" in that spot
+- Add "Flint", requires two jagged rocks
+- Log can no longer be made into wood so easily (any ideas?)
+
+LATER:
+Windmill
+Mill Stone
+Mechanical Power system
+
+
+
 
 
