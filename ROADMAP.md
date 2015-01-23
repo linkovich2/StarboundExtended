@@ -10,6 +10,8 @@ Generally expanding character creation is not high priority, as there are plenty
 ### Human
 - More hair styles *IN PROGRESS*
 - ~~Fix beady eyes~~ *DONE*
+- ~~Add eye color~~ *DONE*
+- More eye/undy colors
 
 ### Hylotl
 - More fin styles
@@ -46,18 +48,27 @@ Generally expanding character creation is not high priority, as there are plenty
 
 ## General Changes
 
-These changes don't really apply to particular portions of the mod, but are more just other additions that I want to see.
+These changes don't really apply to particular portions of the mod, but either apply to the mod as a whole or are just neat features I wanted to have/add.
 
 - More clothing options with more complex recipes
 - Blood as a liquid
 - Better monster on-death animations
 - ~~Larger worlds~~ *DONE*
-
+- Quest UI replaced with tutorial/hint system 
+  - ~~Replace questcomplete GUI~~ *DONE*
+  - ~~Replace newquest GUI~~ *DONE*
+  - Replace Quest Journal GUI
+  - Revise quests *IN PROGRESS*
+- Remove random loot chests from surface / underground generation except dungeons *IN PROGRESS*
+- Remove capsules and status pods from everywhere *IN PROGRESS*
+- Bunnies! *IN PROGRESS*
 
 ## Progression
 
 Based on the phases of the game seen here: http://www.chucklefish.org/images/BiomeDiagram.png
 
-Before "obtain core fragments to fix thrusters"
+#### Before "obtain core fragments to fix thrusters"
+- ~~Remove starter items~~ *DONE*
+- Add "Debris" item
 
 
