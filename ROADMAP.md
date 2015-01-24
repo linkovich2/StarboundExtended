@@ -48,11 +48,9 @@ Generally expanding character creation is not high priority, as there are plenty
 
 ## General Changes
 
-These changes don't really apply to particular portions of the mod, but either apply to the mod as a whole or are just neat features I wanted to have/add.
+These are sweeping changes that apply to the mod as a whole.
 
-- More clothing options with more complex recipes
 - Blood as a liquid
-- Better monster on-death animations
 - ~~Larger worlds~~ *DONE*
 - Quest UI replaced with tutorial/hint system 
   - ~~Replace questcomplete GUI~~ *DONE*
@@ -61,7 +59,21 @@ These changes don't really apply to particular portions of the mod, but either a
   - Revise quests *IN PROGRESS*
 - Remove random loot chests from surface / underground generation except dungeons *IN PROGRESS*
 - Remove capsules and status pods from everywhere *IN PROGRESS*
+- Mobile storage engine (minecart, wheelbarrow, etc)
+- More surface microdungeons and formations
+- Galactic Credits as monetary system
+
+
+## Misc Changes
+
+These changes are mostly aesthetic in nature and don't tie into other areas of the mod.
+
 - Bunnies! *IN PROGRESS*
+  - Bunny Cage object, two states, open spawns bunny, closed with bunny in it
+- Better monster on-death animations
+- More clothing options with more complex recipes
+- Cherry Blossom trees and falling leaves particle effect
+
 
 ## Progression
 
